@@ -1,0 +1,6 @@
+numpy>=1.26
+matplotlib>=3.8
+pillow>=10.0
+jupyter>=1.0
+# Added as the series progresses:
+# scikit-learn, pandas, torch, sentence-transformers
