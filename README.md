@@ -18,7 +18,7 @@ This repo holds the code behind my Medium series **"Decoded: ML the Way an Engin
 
 | # | Concept | Article | Code | Status |
 |---|---------|---------|------|--------|
-| 01 | Gradient Descent | *Every AI You've Ever Used Learned by Rolling Downhill* | [01-gradient-descent](./01-gradient-descent) | 📝 Publishing this week |
+| 01 | Gradient Descent | *Every AI You've Ever Used Learned by Rolling Downhill* | [01-gradient-descent](./01-gradient-descent) | 📝 Published |
 | 02 | Overfitting & Bias–Variance | Coming soon | [02-overfitting](./02-overfitting) | 🔜 |
 | 03 | Evaluation Metrics | Coming soon | [03-evaluation-metrics](./03-evaluation-metrics) | 🔜 |
 | 04 | Backpropagation | Coming soon | [04-backpropagation](./04-backpropagation) | 🔜 |
